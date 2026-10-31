@@ -3,7 +3,7 @@
   "name": "Дедлайны СДО МИРЭА",
   "version": "2.4.0",
   "minimum_chrome_version": "111",
-  "description": "Сроки бакалавриата СДО МИРЭА, обратный отсчёт и сохранение Excel.",
+  "description": "Сроки сдачи работ в СДО МИРЭА с последующим сохранением в Excel-.",
   "host_permissions": [
     "https://online-edu.mirea.ru/*"
   ],
