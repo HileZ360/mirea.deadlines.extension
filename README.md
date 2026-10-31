@@ -1,6 +1,6 @@
 # Дедлайны СДО МИРЭА. No AI used.
 
-<img width="1672" height="941" alt="Баннер" src="https://github.com/user-attachments/assets/83550501-a0ad-4cf1-907f-fee8d2af4e0b" />
+<img width="1672" height="941" alt="Баннер" src="https://github.com/user-attachments/assets/81968775-6a54-4b8d-9b3b-cbb795e0dc78" />
 
 Расширение для Chrome и совместимых браузеров Chromium с обфусцированным кодом.
 
