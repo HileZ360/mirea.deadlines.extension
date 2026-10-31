@@ -43,4 +43,4 @@
 2. https://developer.chrome.com/docs/extensions/develop
 3. https://github.com/javascript-obfuscator/javascript-obfuscator
 
-!!! No AI used, except Image Generation w/o text.
+!!! No AI used, except banner Image Generation w/o text and logo.
