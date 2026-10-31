@@ -1,4 +1,4 @@
-# Дедлайны СДО МИРЭА. No AI used.
+# Дедлайны СДО МИРЭА
 
 <img width="1672" height="941" alt="Баннер" src="https://github.com/user-attachments/assets/81968775-6a54-4b8d-9b3b-cbb795e0dc78" />
 
@@ -36,3 +36,11 @@
 ## Доступ и данные
 
 Доступ ограничен `https://online-edu.mirea.ru/`. Пароль расширение не запрашивает. Разрешение `storage` расширению не требуется.
+
+## Использованные материалы/ресурсы во время кодинга
+
+1. https://developer.mozilla.org/ru/docs/Web
+2. https://developer.chrome.com/docs/extensions/develop
+3. https://github.com/javascript-obfuscator/javascript-obfuscator
+
+!!! No AI used, except Image Generation w/o text.
