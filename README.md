@@ -2,7 +2,7 @@
 
 <img width="1672" height="941" alt="Баннер" src="https://github.com/user-attachments/assets/81968775-6a54-4b8d-9b3b-cbb795e0dc78" />
 
-Расширение для Chrome и совместимых браузеров Chromium с обфусцированным кодом.
+Расширение для Chrome и совместимых браузеров Chromium.
 
 ## Фишки расширения, что делают кнопки
 
